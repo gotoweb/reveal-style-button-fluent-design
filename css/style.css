@@ -1,0 +1,28 @@
+#playpen {
+  width: 600px;
+  height: 300px;
+  border: 1px solid gray;
+  background-color: rgb(155,155,155);
+}
+
+.btn {
+  width: calc(100% - 4px);
+  height: calc(100% - 4px);
+  text-align: center;
+  background-color: rgb(155,155,155);
+  border: 2px solid transparent;
+}
+
+.btn-wrap {
+  width: 100px;
+  height: 30px;
+  padding: 2px;
+  margin: 5px;
+  text-align: center;
+  display: inline-block;
+}
+
+.btn:hover {
+  background-color: rgba(255,255,255,.2);
+  cursor: pointer;
+}

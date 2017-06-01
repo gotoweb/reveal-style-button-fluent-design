@@ -1,0 +1,15 @@
+{
+  "name": "reveal-style-button-fluent-design",
+  "version": "1.0.0",
+  "description": "A Pen created at CodePen.io. You can find this one at http://codepen.io/igotoweb/pen/LygvBo.",
+  "main": "index.js",
+  "devDependencies": {
+    "local-web-server": "^1.2.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "ws"
+  },
+  "author": "",
+  "license": "ISC"
+}
