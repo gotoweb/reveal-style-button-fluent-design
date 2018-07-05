@@ -11,6 +11,7 @@
   text-align: center;
   background-color: rgb(155,155,155);
   border: 2px solid transparent;
+  transition-duration: 0.5s;
 }
 
 .btn-wrap {
